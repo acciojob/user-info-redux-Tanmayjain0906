@@ -29,7 +29,7 @@ const UserInfo = () => {
             </div>
 
 
-            <div>
+            <div className="output">
                 <p>Current Values in store: </p>
                 <p>Name - {name}</p>
                 <p>Email - {email}</p>
