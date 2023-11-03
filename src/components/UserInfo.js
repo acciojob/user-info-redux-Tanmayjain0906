@@ -20,6 +20,7 @@ const UserInfo = () => {
 
     return (
         <div>
+            <h1>User Information</h1>
             <div>
                 <label for="name">Name: </label>
                 <input type="text" id="name" onChange={handleInputName} />
